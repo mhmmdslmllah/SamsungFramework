@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="17" total="18" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8233" started-at="2022-10-06T16:21:41 EDT" finished-at="2022-10-06T16:21:49 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8233" started-at="2022-10-06T16:21:41 EDT" finished-at="2022-10-06T16:21:49 EDT">
+      <class name="testPages.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testPages.HomePageTest@25bbf683]" name="setUp" is-config="true" duration-ms="7889" started-at="2022-10-06T16:21:41 EDT" finished-at="2022-10-06T16:21:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="use_of_get_title_method02()[pri:0, instance:testPages.HomePageTest@25bbf683]" name="use_of_get_title_method02" duration-ms="141" started-at="2022-10-06T16:21:48 EDT" finished-at="2022-10-06T16:21:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- use_of_get_title_method02 -->
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:testPages.HomePageTest@25bbf683]" name="tearUp" is-config="true" duration-ms="161" started-at="2022-10-06T16:21:49 EDT" finished-at="2022-10-06T16:21:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- testPages.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
